@@ -1,0 +1,11 @@
+html, body{
+    background-color: black;
+    color: magenta;
+    font-family: Helvetica, sans-serif, Arial;
+    padding: 70px;
+}
+
+button{
+    padding: 15px;
+    font-size: medium;
+}

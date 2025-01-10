@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "af9a109e99e00257",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d444b68c31602e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9abda87097a108df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Pruebas/Pruebas entre documentos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pruebas entre documentos"
+            }
+          },
+          {
+            "id": "32d3d3a150778333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceptos fundamentales/Conceptos JS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceptos JS"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5720325b6d38bd38",
+    "type": "split",
+    "children": [
+      {
+        "id": "85dfd335e59d5b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d02671c47528b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "305ef11ac1e3682e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#spread",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e18b227e6f142c47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ab96bfbae5df3b88",
+    "type": "split",
+    "children": [
+      {
+        "id": "3614774c33607763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d2f867d5560d0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de React"
+            }
+          },
+          {
+            "id": "463a178faa9b46e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de React"
+            }
+          },
+          {
+            "id": "0e9e0376364e37ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "f1dac596555de2c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de React"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "32d3d3a150778333",
+  "lastOpenFiles": [
+    "Conceptos fundamentales/CRA vs VITE.md",
+    "React/Props.md",
+    "React/Componentes y estados.md",
+    "React/Pruebas/Pruebas asincronas.md",
+    "React/Hooks.md",
+    "Imagenes/Pasted image 20241229093628.png",
+    "Imagenes/Pasted image 20241229092924.png",
+    "Imagenes/Pasted image 20241229092736.png",
+    "Imagenes/Pasted image 20241228131439.png",
+    "Imagenes/Pasted image 20241228131414.png",
+    "Imagenes/Pasted image 20241227180352.png",
+    "Imagenes/Pasted image 20241227005157.png",
+    "React/Pruebas/Pruebas entre documentos.md",
+    "Imagenes/Pasted image 20241226214321.png",
+    "Conceptos fundamentales/Conceptos JS.md",
+    "Imagenes/Pasted image 20241225221002.png",
+    "Conceptos fundamentales/APIs y endpoints.md",
+    "React/Pruebas/Jest.md",
+    "Imagenes/Pasted image 20241226231619.png",
+    "'@babel",
+    "Conceptos fundamentales/Babel.md",
+    "React/Pruebas/Introducción.md",
+    "Conceptos fundamentales/DOM y DOM virtual.md",
+    "React/React.md",
+    "React/Evento CLICK.md",
+    "React/Pruebas",
+    "Sin título 1.md",
+    "React/Fragment.md",
+    "React/Impresion de variables.md",
+    "React/Primer hola mundo.md",
+    "React",
+    "Bienvenido.md",
+    "Conceptos fundamentales",
+    "Imagenes"
+  ]
+}
