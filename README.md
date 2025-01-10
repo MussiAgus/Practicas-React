@@ -1,1 +1,1 @@
-# Pr-cticas-React
+# Praticas-React
